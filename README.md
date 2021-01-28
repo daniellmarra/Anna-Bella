@@ -1,10 +1,8 @@
 # Anna-Bella
 Site fictício para modelo fictícia Anna Bella 
+Fictional website for fictional model Anna Bella
 
-# Sobre o site
-Feito com base no curso de desenvolvimento web completo 20 cursos + 20 projetos 2021
-
-# Oque foi usado:
+# Tecnologia Utilizada | Technology Used
 * HTML + CSS 
 
 ![Anna-Bella](https://github.com/daniellmarra/Anna-Bella/blob/main/Anna-Bella.png)
